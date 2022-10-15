@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kweku-xvi
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning UI/UX designing
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @kweku_xvi on Twitter
+- 📫 Reach me @kweku_xvi on Twitter
 
 <!---
 kweku-xvi/kweku-xvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
