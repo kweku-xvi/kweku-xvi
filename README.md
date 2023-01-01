@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kweku-xvi
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me @kwekuxvi_ on Twitter
 
