@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarpong</h1>
 <h3 align="center">An aspiring backend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/kwekuxvi_" target="blank"><img src="https://img.shields.io/twitter/follow/kwekuxvi_?logo=twitter&style=for-the-badge" alt="kwekuxvi_" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django & Go**
 
 - 📫 How to reach me **nksarps@gmail.com**
