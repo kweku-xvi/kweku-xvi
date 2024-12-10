@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarpong</h1>
 <h3 align="center">An aspiring backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kweku-xvi&label=Profile%20views&color=0e75b6&style=flat" alt="kweku-xvi" /> </p>
-
 - 🌱 I’m currently learning **Python, Django & Go**
 
 - 📫 How to reach me **nksarps@gmail.com**
