@@ -19,5 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kweku-xvi&show_icons=true&locale=en" alt="kweku-xvi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kweku-xvi&" alt="kweku-xvi" /></p>
-
