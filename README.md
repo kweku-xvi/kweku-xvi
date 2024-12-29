@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nana Kwaku </h1>
-<h3 align="center">An aspiring backend developer</h3>
 
 - 🌱 I’m currently learning **Python, Django & Go**
 
